@@ -1,0 +1,36 @@
+
+body
+{
+	margin:0;
+	padding:0;
+	background-image:url("bg.jpg");	
+	text-align:center;
+	background-repeat:no-repeat;
+	background-size:cover; 
+	padding:5px 0px;
+}
+
+h1
+{
+	color:rgba(47, 34, 66,0.9);
+	font-size:50px;
+}
+
+.image
+{
+	display:inline-block;
+	width:30%;
+	border:2px solid rgb(47, 34, 66);
+	padding:0px 0px 0px 0px;
+	margin:0;
+	box-sizing:border-box;
+}
+
+.image img
+{
+	height:300px;
+	width:400px;
+	padding:0;
+}
+
+
